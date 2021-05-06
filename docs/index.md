@@ -448,7 +448,7 @@ http://doi.org/10.5281/zenodo.4679653
 <br>
 2. Link to all code files:
 
- https://github.com/sheldonsebastian/vbd_cxr
+ https://github.com/Guluna/Abnormality-Detection-in-Chest-X-rays
 <br>
 <br>
 3. Link to download trained model files:
